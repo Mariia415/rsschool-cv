@@ -10,18 +10,13 @@ Junior Front-End Developer
 
 
 ### KEY POINTS AND SOFT SKILLS
-* 12+ years experience ofinterpersonalcommunication
-* Advanced English spokenand written  
-* Quick and enthusiasticlearner 
-* Confident user of MSOffice
-* Stress resistance and good time managementskills
+* Advanced English both spoken and written  
+* Quick and enthusiastic learner
+* Stress resistance and good time management skills
 * Maturity and patience
-* Assertiveness andflexibility
-* Ability and willing to learnand develop
-* Advanced conflictmanagement skills
+* Assertiveness and flexibility
 
-
-Working with people was valuable experience which equipped me with such qualities as flexibility, discipline, time accuracy. As well it is hard to overestimate team work and benefits it brings. Team effort is efficient and it's extremely sutisfying to contribute to succsess. Currently I'm looking in a derection of web development as this is very intresting and inspiring field although no less challenging. I belive that a team player mindset and genuine interest is benefitial for the new role.
+Working with people was valuable experience which equipped me with such qualities as flexibility, discipline, time accuracy. As well it is hard to overestimate a team work and benefits it brings. Team effort is efficient and it's extremely sutisfying to contribute to succsess.  Currently I'm looking in a web development direction as this field is very intresting and inspiring although challenging. I belive my team player mindset and genuine interest will be benefitial for the new role.
 
 
 ### EDUCATION
@@ -37,8 +32,9 @@ Working with people was valuable experience which equipped me with such qualitie
 
 *2 0 1 1- 2 0 1 4*
 
-* English course from Intermediate up to Master Level
-Current level of Englih is C1. Use English on daily basis as spoken so written.
+English course from Intermediate up to Master Level\
+Current level of Englih is C1\
+Using English on daily basis as spoken so written
 
 
 ### *Department of Aviation and Space systems National Technical University of Ukraine KPI*

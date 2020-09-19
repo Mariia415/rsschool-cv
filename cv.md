@@ -9,7 +9,19 @@ Junior Front-End Developer
 * 53/113 Wroclawska st, Krakow 30-011, Poland
 
 
-##### Working with people was valuable experience which equipped me with such qualities as flexibility, discipline, time accuracy. As well it is hard to overestimate team work and benefits it brings. Team effort is efficient and it's extremely sutisfying to contribute to succsess. Currently I'm looking in a derection of web development as this is very intresting and inspiring field although no less challenging. I belive that a team player mindset and genuine interest is benefitial for the new role.
+### KEY POINTS AND SOFT SKILLS
+* 12+ years experience ofinterpersonalcommunication
+* Advanced English spokenand written  
+* Quick and enthusiasticlearner 
+* Confident user of MSOffice
+* Stress resistance and good time managementskills
+* Maturity and patience
+* Assertiveness andflexibility
+* Ability and willing to learnand develop
+* Advanced conflictmanagement skills
+
+
+Working with people was valuable experience which equipped me with such qualities as flexibility, discipline, time accuracy. As well it is hard to overestimate team work and benefits it brings. Team effort is efficient and it's extremely sutisfying to contribute to succsess. Currently I'm looking in a derection of web development as this is very intresting and inspiring field although no less challenging. I belive that a team player mindset and genuine interest is benefitial for the new role.
 
 
 ### EDUCATION

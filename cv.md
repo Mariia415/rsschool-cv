@@ -23,7 +23,7 @@ Working with people was valuable experience which equipped me with such qualitie
   ### *Self Education*
 
   *2018 till present*
-  * [MDN Web Docs Tutorials (CSS, JS](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+  * [MDN Web Docs Tutorials (CSS, JS)](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
   * Course of Basic WEB and SQL for Software Testing
   * Course of Software Testing
   * Course of MS SQL
